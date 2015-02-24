@@ -1,0 +1,10 @@
+Générer des cartes de recherche avec 10 mots, 10 place ou mettre les temps, un bouton play qui devient stop et puis devient
+non cliquable pour pouvoir enregistrer les temps de recherche de chaque mot. Chaque mot à une option compréhension (?) qui
+est un bouton radio et qui ajoute un champ de texte pour que l'utilisateur puisse écrire et plus tard enregistrer la définition
+des mots qu'il ne comprenait pas. On peut enregistrer une session (toutes les cartes qui ont été faites). Le programme
+démarre sur une page avec un background spécialement designer pour le projet et un label sur lequel on peut lire
+''Déposer un fichier session (.ses) ici pour commencer''. Lors de l'ouverture de la session l'utilisateur a deux menus
+à sa gauche, Mes aventures littéraires et Mode découverte. Le premier est un historique des fiches découvertes faites par
+l'élève présenter selon une interface du type librairie musicale (itunes) avec une image et une description pour chaque fiche
+(première version l'image peut être la date de création de la fiche). Le mode découverte, tant qu'à lui, est l'endroit ou
+l'utilisateur remplit de nouvelles fiches découverte.
